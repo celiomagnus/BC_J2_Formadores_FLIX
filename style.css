@@ -19,7 +19,7 @@ color: rgb(27, 189, 35);
 
 header{
     text-align: center;
-border-bottom : outset 5px #dfd61d;
+border-bottom : solid 5px #dfd61d;
 font-size: 48px;
 padding: 10px;
 font-family: Arial, Helvetica, sans-serif;
