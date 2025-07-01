@@ -31,4 +31,11 @@ section {
 background-color: blueviolet;
 padding-bottom: 50px;
 padding-top: 50px;
+display: flex;
+justify-content: center;
+}
+.chamada {
+margin-right: 30px;
+
+
 }
