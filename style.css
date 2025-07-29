@@ -27,7 +27,7 @@ color: rgb(25, 140, 23);
 
 }
 
-section {
+.chamada {
 background-color: blueviolet;
 padding-bottom: 50px;
 padding-top: 50px;
@@ -43,4 +43,12 @@ margin-right: 30px;
 img {
     width: 300px;
     height: 200px;
+}
+
+.categoria-videos {
+display: flex;
+overflow-x: auto;
+
+
+
 }
