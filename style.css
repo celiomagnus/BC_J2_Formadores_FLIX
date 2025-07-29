@@ -51,3 +51,7 @@ overflow-x: auto;
 gap: 0.9%;
 padding-left: 10px;
 }
+
+body {
+padding-bottom: 40px;
+}
